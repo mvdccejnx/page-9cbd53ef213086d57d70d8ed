@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b8ff60f7cd91fa802981e23d",
+  "owner": "mvdccejnx",
+  "repo": "page-9cbd53ef213086d57d70d8ed",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9cbd53ef213086d57d70d8ed",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f6d1df904b0b472a656e357c72283f4036120e2e37da73d41ef6a28519719807",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供稳定VPN加速器服务，支持机场订阅和客户端下载。选择基础版、旗舰版或团队版套餐，享受高速流量和流媒体解锁。",
+          "AI_DESCRIPTION": "44F网络提供稳定VPN加速器服务，支持机场订阅和客户端下载。选择基础版、旗舰版或团队版套餐，享受高速流量和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n<style>\nbody{font-family:system-ui,-apple-system,sans-serif;margin:0;padding:0;background:#F8F5F0;color:#333;line-height:1.7;}\nheader{background:#fff;box-shadow:0 2px 4px rgba(0,0,0,.1);}\nnav{display:flex;justify-content:space-between;align-items:center;padding:1rem 5%;}\n.logo{font-size:1.8rem;font-weight:700;color:#0A5C36;}\n.nav-links{display:flex;gap:2rem;}\n.nav-links a{color:#0A5C36;text-decoration:none;font-weight:500;}\n.hero{background:linear-gradient(135deg,#0A5C36,#E8F5E9);color:#fff;padding:4rem 5%;text-align:center;}\n.hero h1{font-size:3rem;margin-bottom:1rem;}\n.hero p{font-size:1.2rem;}\n.main{max-width:1200px;margin:0 auto;}\nsection{padding:3rem 5%;}\nh2{font-size:2rem;color:#0A5C36;margin-bottom:1.5rem;}\nh3{font-size:1.5rem;color:#0A5C36;}\n.card-grid{display:grid;gap:1.5rem;}\n.plan-card{background:#fff;border-radius:12px;padding:1.5rem;box-shadow:0 4px 8px rgba(10,92,54,.15);transition:all .3s;}\n.plan-card.featured{border:2px solid #0A5C36;}\n.plan-card h3{font-size:1.4rem;margin:0 0 .5rem;}\n.plan-card .price{font-size:1.8rem;font-weight:700;color:#0A5C36;}\n.plan-card .annual{font-size:1rem;color:#666;}\n.plan-card ul{list-style:none;padding:0;}\n.plan-card li{margin:.5rem 0;padding-left:1rem;position:relative;}\n.plan-card li:before{content:\"✓\";position:absolute;left:0;color:#0A5C36;}\n.scenario-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem;}\n.scenario-card{background:#fff;padding:1.5rem;border-radius:12px;box-shadow:0 2px 4px rgba(0,0,0,.05);}\n.faq details{margin:1.5rem 0;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 4px rgba(0,0,0,.05);}\n.faq summary{padding:1rem 1.5rem;cursor:pointer;font-weight:600;font-size:1.1rem;}\n.faq .content{padding:1rem 1.5rem;color:#555;}\n@media(max-width:768px){body{font-size:16px;}\n.hero h1{font-size:2.5rem;}\nsection{padding:2rem 4%;}\n}\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">44F网络</div>\n<div class=\"nav-links\">\n<a href=\"#intro\">简介</a>\n<a href=\"#scenarios\">场景</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">FAQ</a>\n</div>\n</nav>\n</header>\n<main>\n<section class=\"hero\">\n<h1>44F网络</h1>\n<p>专业VPN加速器<br>支持机场订阅与客户端下载</p>\n<a href=\"#plans\" class=\"btn\">立即选择套餐</a>\n</section>\n\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>44F网络是专注于提供稳定网络加速服务的品牌。我们致力于帮助用户突破网络限制，享受高速、可靠的互联网体验。通过先进的节点技术和优化线路，确保每一次连接都流畅无阻。</p>\n</section>\n\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<div class=\"scenario-grid\">\n<div class=\"scenario-card\">\n<h3>日常上网</h3>\n<p>提供稳定连接，保障浏览速度。</p>\n</div>\n<div class=\"scenario-card\">\n<h3>流媒体解锁</h3>\n<p>支持多种流媒体内容解锁。</p>\n</div>\n<div class=\"scenario-card\">\n<h3>游戏加速</h3>\n<p>使用IPLC专线优化游戏体验。</p>\n</div>\n<div class=\"scenario-card\">\n<h3>多设备在线</h3>\n<p>支持多台设备同时连接，家庭共享便利。</p>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>选择您的套餐</h2>\n{{PLANS_HTML}}\n</section>\n\n<section id=\"clients\">\n<h2>客户端下载</h2>\n{{CLIENTS_HTML}}\n</section>\n\n<section id=\"operation\">\n<h2>操作说明</h2>\n<ol>\n<li>登录官网或访问我们的平台，选择适合您的套餐并完成支付。</li>\n<li>根据您的选择下载对应的客户端软件。</li>\n<li>安装客户端并打开，登录账号。</li>\n<li>选择合适的节点进行连接，即可享受加速服务。</li>\n</ol>\n</section>\n\n<section class=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>什么是44F网络？</summary>\n<p>44F网络是一个专业的VPN网络加速服务提供商，提供多种套餐和客户端下载服务，帮助用户实现高速稳定连接。</p>\n</details>\n<details>\n<summary>如何选择合适的套餐？</summary>\n<p>根据您的设备数量和使用需求选择基础版、旗舰版或团队版。旗舰版适合需要流媒体解锁和游戏加速的用户。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。</p>\n</details>\n<details>\n<summary>如何解锁流媒体？</summary>\n<p>旗舰版和以上套餐支持全节点原生流媒体解锁。</p>\n</details>\n<details>\n<summary>售后服务如何？</summary>\n<p>7x24优先工单支持，团队版提供专属客户经理服务。</p>\n</details>\n</section>\n\n</main>\n<footer>\n<p>© 2024 44F网络 版权所有</p>\n</footer>\n\n",
+          "hash": "33b78ecb831baa48b30446cc5c98e0bbbadd1558cbac729b8926208980198ea3",
+          "seo": {
+            "title": "44F网络 - 稳定VPN加速器 | 机场订阅与客户端下载",
+            "keywords": "44F网络,VPN加速器,机场订阅,客户端下载,梯子网络,VPN服务",
+            "description": "44F网络提供稳定VPN加速器服务，支持机场订阅和客户端下载。选择基础版、旗舰版或团队版套餐，享受高速流量和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "re-meditech.cn",
+    "host": "b.re-meditech.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "re-meditech.cn",
+      "url": "https://re-meditech.cn/",
+      "label": "Xlinkworld",
+      "apex": "re-meditech.cn",
+      "kind": null,
+      "identity": "wegyvj/page-fae7427f4532558527829b65"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f5410a2b23868e0c694ed0d6306833a1b4f721aae03ada5808697ab0d5298f7d",
+    "sitemap.xml": "3ee951d971860836285acda07f3142e90779831aef0ace3127b8968a8c130c53",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6dca522531cb1bc6c1d786576740044fcef0dc113f1ce17fa7166dbc1d611746",
+    "robots.txt": "0495e4dd486fd79feb943db64baec8f736e0587d13ebeeb526b67f3d7c1d4925",
+    "9336499790fc9d42268ea38ea72cbe72.txt": "7e14a4fa82b43af63ac8acd400c9d1c609207d02f5dd2c747101e041bb302cc1"
+  },
+  "revision": "aff9e96eceed0789ec49aea34e73be6e484a894d5840598548de731eb8e1837e"
+}
